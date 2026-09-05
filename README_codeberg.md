@@ -76,3 +76,4 @@ Hgd+4M6fgRMf1UcqAA==
 | :--- | :--- | :--- |
 | [**zind**](/tsukumoakito/zind) | ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square) | ![Build](https://img.shields.io/badge/status-active-success?style=flat-square) |
 | [**zlb**](/tsukumoakito/zlb) | ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square) | ![Build](https://img.shields.io/badge/status-benchmarking-orange?style=flat-square) |
+| [**circuit-mesh**](/tsukumoakito/circuit-mesh) | ![AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-red?style=flat-square) | ![Build](https://img.shields.io/badge/status-experimental-orange?style=flat-square) |
