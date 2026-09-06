@@ -68,5 +68,6 @@ Hgd+4M6fgRMf1UcqAA==
 | Project | License | Origin |
 | :--- | :--- | :--- |
 | [**zind**](https://codeberg.org/tsukumoakito/zind) | ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square) | ![Codeberg](https://img.shields.io/badge/Host-Codeberg-2185d0?style=flat-square&logo=codeberg&logoColor=white) |
+| [**dns-stream**](https://codeberg.org/tsukumoakito/dns-stream) | ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square) | ![Codeberg](https://img.shields.io/badge/Host-Codeberg-2185d0?style=flat-square&logo=codeberg&logoColor=white) |
 | [**zlb**](https://codeberg.org/tsukumoakito/zlb) | ![MIT](https://img.shields.io/badge/license-MIT-blue?style=flat-square) | ![Codeberg](https://img.shields.io/badge/Host-Codeberg-2185d0?style=flat-square&logo=codeberg&logoColor=white) |
 | [**circuit-mesh**](https://codeberg.org/tsukumoakito/circuit-mesh) | ![AGPL-3.0](https://img.shields.io/badge/license-AGPL--3.0-red?style=flat-square) | ![Codeberg](https://img.shields.io/badge/Host-Codeberg-2185d0?style=flat-square&logo=codeberg&logoColor=white) |
