@@ -74,6 +74,7 @@ Hgd+4M6fgRMf1UcqAA==
 
 - **Focus:** Advancing low-latency data flow protocols and systems reliability with **Zig**.
 - **Ecosystem:** Ongoing refinement of Arch Linux tooling and localized cryptography workflows.
+- **Security:** Strict adherence to centralized vault models and cryptographically signed manifests.
 - **Milestones:** Expanding modular networking components across active repositories.
 
 ## 🏗 Projects Status
