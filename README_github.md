@@ -63,6 +63,12 @@ Hgd+4M6fgRMf1UcqAA==
 システムプログラミング（Zig/C）およびインフラ構築（Linux Kernel/Arch Linux）を専門としています。
 開発の拠点は **Codeberg** に集約しています。
 
+## 📡 Recent Activity & Updates
+
+- **Focus:** Advancing low-latency data flow protocols and systems reliability with **Zig**.
+- **Ecosystem:** Ongoing refinement of Arch Linux tooling and localized cryptography workflows.
+- **Milestones:** Expanding modular networking components across active repositories.
+
 ## 🏗 Key Projects (External Links)
 
 | Project | License | Origin |
