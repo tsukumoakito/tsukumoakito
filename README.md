@@ -10,7 +10,7 @@ SPDX-License-Identifier: MIT
 ![GnuPG](https://img.shields.io/badge/GnuPG-003300?style=flat-square&logo=gnupg&logoColor=white)
 ![PQC-Ready](https://img.shields.io/badge/Security-PQC--Ready-blueviolet?style=flat-square)
 
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tsukumoakito&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://github.com/tsukumoakito)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tsukumoakito&layout=compact&hide_border=true&theme=vision-friendly-dark)](https://codeberg.org/tsukumoakito)
 
 # TSUKUMO Akito ([@tsukumoakito](https://codeberg.org/tsukumoakito))
 
@@ -21,7 +21,7 @@ Zig / Linux / Arch Linux
 
 ## 🔗 Primary Development Hub
 
-This GitHub profile serves as a mirror of my active development. For full technical documentation, experimental projects, and my complete development ecosystem, please visit my primary hub:
+This GitLab profile serves as a mirror of my active development. For full technical documentation, experimental projects, and my complete development ecosystem, please visit my primary hub:
 
 **[Codeberg: @tsukumoakito](https://codeberg.org/tsukumoakito)**
 
@@ -31,7 +31,7 @@ Commits in this mirror are cryptographically signed.
 
 - **Fingerprint:** `66B2 27EC 5F67 D7B4 F8C6 C1C7 E987 64DF 6FCE 8857`
 - **Keyserver:** `gpg --keyserver keyserver.ubuntu.com --recv-keys 66B227EC5F67D7B4F8C6C1C7E98764DF6FCE8857`
-- **Raw Key:** [public_key.asc](https://github.com/tsukumoakito/tsukumoakito/blob/master/public_key.asc)
+- **Raw Key:** [public_key.asc](https://gitlab.com/tsukumoakito/tsukumoakito/-/blob/master/public_key.asc)
 
 <details>
 <summary><b>View Raw Public Key Block</b></summary>
@@ -59,7 +59,7 @@ Hgd+4M6fgRMf1UcqAA==
 
 ## 🇯🇵 日本語 / Japanese
 
-こちらはミラーリポジトリです。
+こちらは GitLab 上のミラーリポジトリです。
 システムプログラミング（Zig/C）およびインフラ構築（Linux Kernel/Arch Linux）を専門としています。
 開発の拠点は **Codeberg** に集約しています。
 
