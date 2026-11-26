@@ -14,17 +14,17 @@ SPDX-License-Identifier: MIT
 
 # TSUKUMO Akito (@tsukumoakito)
 
-Welcome to my primary development hub. I specialize in system-level development with a focus on performance, security, and digital privacy.
+Welcome to my primary development hub. I am a system-level developer focusing on high-performance networking, low-overhead tooling, and privacy-preserving infrastructure, as well as the founder of **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
 
 ## 🛠 Technical Focus
 
-- **Languages:** High-performance systems programming using **Zig** and C.
-- **Infrastructure:** Linux kernel optimization and Arch Linux ecosystem maintenance.
-- **Methodology:** Building software that respects user freedom through secure-by-default management models.
+- **Systems & Networking:** Low-latency, minimal-dependency systems software in **Zig** and **C**.
+- **Infrastructure:** Linux kernel optimization, Arch Linux tooling, and deterministic, reproducible workflows.
+- **Security & Privacy Engineering:** Secure-by-default architectures, cryptographic key isolation, and applied cryptography research (ZKP / SSI) through **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
 
 ## 🔐 Security & Reliability
 
-My development workflow follows a centralized vault model, ensuring all sensitive configurations and cryptographic keys are managed independently from public infrastructure.
+My development workflow follows an isolated vault model, ensuring all sensitive configurations and cryptographic keys are managed independently from public infrastructure, with **REUSE**-compliant licensing and signed commits.
 
 ### 🔑 GPG Verification
 
@@ -65,17 +65,16 @@ Hgd+4M6fgRMf1UcqAA==
 
 ## 🇯🇵 日本語 / Japanese
 
-システムレベルのツール開発とセキュアなインフラ構築を専門とするデベロッパーです。
+高性能なシステムツールおよびセキュアなインフラ基盤の開発を専門とするシステムデベロッパーです。また、ゼロ知識証明（ZKP）と自己情報主権（SSI）に基づく個人情報非保持型の資格証明・暗号基盤を研究開発する **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)** を主宰しています。
 
-- **技術領域:** Zig を中心とした高効率なシステムプログラミング、Linux カーネルの最適化、Arch Linux パッケージ管理。
-- **設計思想:** パフォーマンスとプライバシーの追求。独自の「金庫（Vault）モデル」により、公開インフラに依存しない堅牢な管理規律を維持しています。
+- **技術領域:** **Zig** / **C** を中心とした低オーバーヘッドなネットワーク・システムプログラミング、Linux カーネルの最適化、Arch Linux パッケージ・ツール開発。
+- **設計思想:** パフォーマンス・安全性・プライバシーの両立。公開インフラから秘密情報を分離する「金庫（Vault）モデル」と、暗号学的署名および REUSE 準拠による透明性の高い開発規律を維持しています。
 
-## 📡 Recent Activity & Updates
+## 📡 Current Focus
 
-- **Focus:** Advancing low-latency data flow protocols and systems reliability with **Zig**.
-- **Ecosystem:** Ongoing refinement of Arch Linux tooling and localized cryptography workflows.
-- **Security:** Strict adherence to centralized vault models and cryptographically signed manifests.
-- **Milestones:** Expanding modular networking components across active repositories.
+- **Systems & Networking:** Building modular, low-latency networking components and DNS/load-balancing tools in **Zig**.
+- **Ecosystem & Security:** Refining Arch Linux tooling, isolated vault workflows, and **REUSE** / PQC-ready cryptographic practices.
+- **Privacy R&D:** Advancing Zero-Data-Retention digital identity and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
 
 ## 🏗 Projects Status
 
