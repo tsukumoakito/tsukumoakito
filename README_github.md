@@ -60,13 +60,13 @@ Hgd+4M6fgRMf1UcqAA==
 ## 🇯🇵 日本語 / Japanese
 
 こちらはミラーリポジトリです。開発の一次拠点は **[Codeberg](https://codeberg.org/tsukumoakito)** に集約しています。
-**Zig / C** によるシステムプログラミングおよび **Linux / Arch Linux** のインフラ基盤構築を専門としています。また、ゼロ知識証明（ZKP）と自己情報主権（SSI）に基づくプライバシー保護デジタルアイデンティティ研究機構 **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)** を主宰しています。
+**Zig / C**（GC レスな物理メモリ制御、`comptime` 検証、`libxev` / `io_uring` 非同期 I/O）によるシステムプログラミングおよび **Linux / Arch Linux**・**ISO/IEC 7816 APDU** 基盤構築を専門としています。また、ゼロ知識証明（ZKP）と自己情報主権（SSI）に基づくプライバシー保護デジタルアイデンティティ研究機構 **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)** を主宰しています。
 
 ## 📡 Current Focus
 
-- **Systems & Networking:** Building low-latency networking components and DNS/load-balancing tools in **Zig**.
-- **Ecosystem & Security:** Refining Arch Linux tooling, isolated vault workflows, and PQC-ready cryptographic manifests.
-- **Privacy R&D:** Advancing Zero-Data-Retention digital identity and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)**.
+- **Systems & Networking:** Building low-latency networking components, DNS/load-balancing tools, and **OHTTP (RFC 9458)**-aligned relays in **Zig** (`libxev` / `io_uring`).
+- **Ecosystem & Security:** Refining Arch Linux tooling, smartcard / APDU workflows, **Reproducible Builds**, `mlock`/zeroize key protection, and PQC-ready manifests.
+- **Privacy R&D:** Advancing Zero-Data-Retention digital identity, local IC-chip ZKP generation, and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)**.
 
 ## 🏗 Key Projects (External Links)
 
