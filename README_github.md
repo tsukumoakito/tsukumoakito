@@ -14,8 +14,8 @@ SPDX-License-Identifier: MIT
 
 # TSUKUMO Akito ([@tsukumoakito](https://codeberg.org/tsukumoakito))
 
-System-level developer focused on high-performance tools and secure infrastructure.
-Zig / Linux / Arch Linux
+System-level developer focused on high-performance networking, low-overhead tools, and secure infrastructure.
+Founder of **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)** · Zig / C / Linux / Arch Linux
 
 ---
 
@@ -59,16 +59,14 @@ Hgd+4M6fgRMf1UcqAA==
 
 ## 🇯🇵 日本語 / Japanese
 
-こちらはミラーリポジトリです。
-システムプログラミング（Zig/C）およびインフラ構築（Linux Kernel/Arch Linux）を専門としています。
-開発の拠点は **Codeberg** に集約しています。
+こちらはミラーリポジトリです。開発の一次拠点は **[Codeberg](https://codeberg.org/tsukumoakito)** に集約しています。
+**Zig / C** によるシステムプログラミングおよび **Linux / Arch Linux** のインフラ基盤構築を専門としています。また、ゼロ知識証明（ZKP）と自己情報主権（SSI）に基づくプライバシー保護デジタルアイデンティティ研究機構 **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)** を主宰しています。
 
-## 📡 Recent Activity & Updates
+## 📡 Current Focus
 
-- **Focus:** Advancing low-latency data flow protocols and systems reliability with **Zig**.
-- **Ecosystem:** Ongoing refinement of Arch Linux tooling and localized cryptography workflows.
-- **Security:** Strict adherence to centralized vault models and cryptographically signed manifests.
-- **Milestones:** Expanding modular networking components across active repositories.
+- **Systems & Networking:** Building low-latency networking components and DNS/load-balancing tools in **Zig**.
+- **Ecosystem & Security:** Refining Arch Linux tooling, isolated vault workflows, and PQC-ready cryptographic manifests.
+- **Privacy R&D:** Advancing Zero-Data-Retention digital identity and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://github.com/zk-sovereignty-japan)**.
 
 ## 🏗 Key Projects (External Links)
 
