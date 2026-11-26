@@ -18,13 +18,13 @@ Welcome to my primary development hub. I am a system-level developer focusing on
 
 ## 🛠 Technical Focus
 
-- **Systems & Networking:** Low-latency, minimal-dependency systems software in **Zig** and **C**.
-- **Infrastructure:** Linux kernel optimization, Arch Linux tooling, and deterministic, reproducible workflows.
-- **Security & Privacy Engineering:** Secure-by-default architectures, cryptographic key isolation, and applied cryptography research (ZKP / SSI) through **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
+- **Systems & Networking:** Low-latency, minimal-dependency systems software in **Zig** and **C**, utilizing `libxev` (`io_uring` / `epoll`) event loops, deterministic GC-free memory control, and `comptime` verification.
+- **Infrastructure & Hardware Interface:** Linux kernel optimization, Arch Linux tooling, **Reproducible Builds**, and direct **ISO/IEC 7816 APDU** (`PCSC-Lite`) smartcard integration.
+- **Security & Privacy Engineering:** Secure-by-default architectures with `mlock` and explicit memory zeroization, cryptographic key isolation, and applied cryptography research (ZKP / SSI / **OHTTP**) through **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
 
 ## 🔐 Security & Reliability
 
-My development workflow follows an isolated vault model, ensuring all sensitive configurations and cryptographic keys are managed independently from public infrastructure, with **REUSE**-compliant licensing and signed commits.
+My development workflow follows an isolated vault model, ensuring all sensitive configurations and cryptographic keys are managed independently from public infrastructure, with **REUSE**-compliant licensing, **Reproducible Builds**, and signed commits.
 
 ### 🔑 GPG Verification
 
@@ -67,14 +67,14 @@ Hgd+4M6fgRMf1UcqAA==
 
 高性能なシステムツールおよびセキュアなインフラ基盤の開発を専門とするシステムデベロッパーです。また、ゼロ知識証明（ZKP）と自己情報主権（SSI）に基づく個人情報非保持型の資格証明・暗号基盤を研究開発する **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)** を主宰しています。
 
-- **技術領域:** **Zig** / **C** を中心とした低オーバーヘッドなネットワーク・システムプログラミング、Linux カーネルの最適化、Arch Linux パッケージ・ツール開発。
-- **設計思想:** パフォーマンス・安全性・プライバシーの両立。公開インフラから秘密情報を分離する「金庫（Vault）モデル」と、暗号学的署名および REUSE 準拠による透明性の高い開発規律を維持しています。
+- **技術領域:** **Zig** / **C**（GC レスな物理メモリ制御、`comptime` 検証、`libxev` / `io_uring` 非同期 I/O）を軸とした低遅延ネットワーク・システムプログラミング、Linux カーネルの最適化、Arch Linux ツール開発、ならびに **ISO/IEC 7816 APDU**（スマートカード / `PCSC-Lite`）連携。
+- **設計思想:** 公開インフラから秘密情報を分離する「金庫（Vault）モデル」、`mlock` と明示的メモリゼロクリアによる鍵保護、暗号学的署名・**Reproducible Builds**（再現可能なビルド）・REUSE 準拠による透明性の高い開発規律を維持しています。
 
 ## 📡 Current Focus
 
-- **Systems & Networking:** Building modular, low-latency networking components and DNS/load-balancing tools in **Zig**.
-- **Ecosystem & Security:** Refining Arch Linux tooling, isolated vault workflows, and **REUSE** / PQC-ready cryptographic practices.
-- **Privacy R&D:** Advancing Zero-Data-Retention digital identity and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
+- **Systems & Networking:** Building modular, low-latency networking components, DNS/load-balancing tools, and **OHTTP (RFC 9458)**-aligned relays in **Zig**.
+- **Ecosystem & Security:** Refining Arch Linux tooling, OpenPGP smartcard / APDU workflows, **Reproducible Builds**, and **REUSE** / PQC-ready cryptographic practices.
+- **Privacy R&D:** Advancing Zero-Data-Retention digital identity, local IC-chip ZKP generation, and cryptographic unlinkability initiatives at **[ZK-Sovereignty Japan](https://codeberg.org/zk-sovereignty-japan)**.
 
 ## 🏗 Projects Status
 
